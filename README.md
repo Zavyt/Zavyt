@@ -82,7 +82,7 @@
 <br/>  
 
 
-## Github Stats  
+## Estadisticas
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zavyt&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
