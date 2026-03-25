@@ -1,4 +1,4 @@
-![Header](./github-header-banner (1).png)
+![Header](./github-header-banner.png)
 
 ### <div align="center">Soy Zavyt, Un Desarollador Independiente con Ganas de Escribir Codigo 🚀</div>  
   
