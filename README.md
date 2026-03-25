@@ -14,7 +14,13 @@
 
 <br/>  
 
-<table><tr><td valign="top" width="33%">
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXRsaHV6anhicno2anJpNXM1NWl4ZXBkbHhtc25naWVwd3B0YTY3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="200"/>
+</div>
+
+<br/>
+
+<table><tr><td valign="top" width="100%">
 
 
 
