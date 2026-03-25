@@ -20,7 +20,7 @@
 
 <br/>
 
-<table width="100%"><tr><td valign="top" width="33%">
+<table align="center" width="100%"><tr><td valign="top" width="33%">
 
 
 
